@@ -33,6 +33,9 @@
 .am-gallery-default > li{
 	padding:1px;
 }
+.kh .am-gallery-default > li{
+	padding:5px;
+}
 [data-am-widget='tabs']{
 	margin:0}
 [data-am-widget='tabs'] .am-tabs-nav{
