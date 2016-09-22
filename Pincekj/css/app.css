@@ -19,6 +19,7 @@
 	bottom:5px}
 .bgcolor2{
 	background-color:rgba(255, 234, 0, 1);
+	padding:10px;
 }
 .bgcolor2 img{    
 	margin-top: 10px;
@@ -27,7 +28,8 @@
 .bgcolor2 p{ 
 	margin:0; 
 	margin-bottom:10px;
-	text-align: center; }
+	text-align: center;
+	font-size: 0.8em;}
 [data-am-widget='tabs']{
 	margin:0}
 [data-am-widget='tabs'] .am-tabs-nav{
